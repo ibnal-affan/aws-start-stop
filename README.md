@@ -263,14 +263,3 @@ sonarqube-check:
     - merge_requests
 ```
 
-## Contributing
-
-Contributions to improve the function or expand its capabilities are welcome. Please ensure that:
-
-1. Your code passes all tests
-2. You maintain or improve the current code coverage
-3. You update documentation as needed
-
-## License
-
-[Specify your license here]
